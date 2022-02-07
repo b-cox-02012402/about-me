@@ -1,0 +1,9 @@
+- Hello and welcome to my GitHub!
+- My name is Brian Cox.
+- I am a student at the Unviersity of Massachusetts Lowell majoring in computer science.
+- My graduation year is 2023.
+- I am currently learning advanced C++.
+- So far in my academic carreer, I have become proficient in Java, C++, Computer Assembly language, and operating systems such as Linux and Windows 10.
+- I am interested in software engineering and cybersecurity.
+- As you navigate through my repositories, you will see various projects that I have worked on, both for school and in my free time.
+- If you have any questions or inquiries, you can reach me at briancox135@gmail.com.
